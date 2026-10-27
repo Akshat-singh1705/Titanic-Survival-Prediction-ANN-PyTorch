@@ -1,0 +1,33 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# Model Files
+*.pth
+*.pt
+
+# Logs
+*.log
+
+# Cache
+.cache/
