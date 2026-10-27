@@ -121,13 +121,13 @@ Weighted Avg      0.82       0.83      0.82
 
 Tracks training loss and validation loss across epochs.
 
-![Learning Curve](images/learning_curve.png)
+![Learning Curve](images/learning_curve.jpg)
 
 ### Confusion Matrix
 
 Provides a detailed view of correct and incorrect predictions.
 
-![Confusion Matrix](images/Confusion_matrix.png)
+![Confusion Matrix](images/Confusion_matrix.jpg)
 
 ---
 
